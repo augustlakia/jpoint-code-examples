@@ -1,0 +1,4 @@
+spring:
+  cache:
+    cache-names: intddasd
+    caffeine.spec: maximumSize=500,expireAfterAccess=3600s

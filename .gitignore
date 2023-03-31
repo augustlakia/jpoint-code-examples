@@ -1,0 +1,8 @@
+/.idea/
+/hazelcast-example/.gitignore
+/hazelcast-example/HELP.md
+/redis-reactive/HELP.md
+/hazelcast-example/.idea/
+/hazelcast-example/.mvn/
+/redis-couroutine/.idea/
+/redis-couroutine/HELP.md
